@@ -90,5 +90,5 @@ We welcome contributions to enhance the Social Media Analyzer. Please follow the
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/stephenombuya/socialmediaanalyzer/blob/main/LICENSE) file for details.
 
 ## Contact
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please leave an issue on [issues](https://github.com/stephenombuya/socialmediaanalyzer/issues).
 
